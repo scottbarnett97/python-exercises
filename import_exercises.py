@@ -1,3 +1,2 @@
-import functions_exerceses2 as fex
-import math
-sqrt(9)
+from functions_exercises import calculate_tip
+calculate_tip(100,10)
